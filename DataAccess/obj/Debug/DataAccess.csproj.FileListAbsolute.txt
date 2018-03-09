@@ -1,0 +1,8 @@
+G:\Videos\Study\Coding practice\Logging\DataAccess\bin\Debug\DataAccess.dll
+G:\Videos\Study\Coding practice\Logging\DataAccess\bin\Debug\DataAccess.pdb
+G:\Videos\Study\Coding practice\Logging\DataAccess\obj\Debug\DataAccess.dll
+G:\Videos\Study\Coding practice\Logging\DataAccess\obj\Debug\DataAccess.pdb
+G:\Videos\Study\Github\Logging\DataAccess\bin\Debug\DataAccess.dll
+G:\Videos\Study\Github\Logging\DataAccess\bin\Debug\DataAccess.pdb
+G:\Videos\Study\Github\Logging\DataAccess\obj\Debug\DataAccess.dll
+G:\Videos\Study\Github\Logging\DataAccess\obj\Debug\DataAccess.pdb

@@ -1,0 +1,8 @@
+G:\Videos\Study\Coding practice\Logging\Configuration\bin\Debug\Configuration.dll
+G:\Videos\Study\Coding practice\Logging\Configuration\bin\Debug\Configuration.pdb
+G:\Videos\Study\Coding practice\Logging\Configuration\obj\Debug\Configuration.dll
+G:\Videos\Study\Coding practice\Logging\Configuration\obj\Debug\Configuration.pdb
+G:\Videos\Study\Github\Logging\Configuration\bin\Debug\Configuration.dll
+G:\Videos\Study\Github\Logging\Configuration\bin\Debug\Configuration.pdb
+G:\Videos\Study\Github\Logging\Configuration\obj\Debug\Configuration.dll
+G:\Videos\Study\Github\Logging\Configuration\obj\Debug\Configuration.pdb

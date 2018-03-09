@@ -1,0 +1,26 @@
+G:\Videos\Study\Coding practice\Logging\Logging\obj\Debug\Logging.csprojResolveAssemblyReference.cache
+G:\Videos\Study\Coding practice\Logging\Logging\bin\Debug\Logging.dll
+G:\Videos\Study\Coding practice\Logging\Logging\bin\Debug\Logging.pdb
+G:\Videos\Study\Coding practice\Logging\Logging\bin\Debug\Configuration.dll
+G:\Videos\Study\Coding practice\Logging\Logging\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\Videos\Study\Coding practice\Logging\Logging\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+G:\Videos\Study\Coding practice\Logging\Logging\bin\Debug\Configuration.pdb
+G:\Videos\Study\Coding practice\Logging\Logging\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+G:\Videos\Study\Coding practice\Logging\Logging\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+G:\Videos\Study\Coding practice\Logging\Logging\obj\Debug\Logging.dll
+G:\Videos\Study\Coding practice\Logging\Logging\obj\Debug\Logging.pdb
+G:\Videos\Study\Coding practice\Logging\Logging\bin\Debug\DataAccess.dll
+G:\Videos\Study\Coding practice\Logging\Logging\bin\Debug\DataAccess.pdb
+G:\Videos\Study\Github\Logging\Logging\bin\Debug\Logging.dll
+G:\Videos\Study\Github\Logging\Logging\bin\Debug\Logging.pdb
+G:\Videos\Study\Github\Logging\Logging\bin\Debug\Configuration.dll
+G:\Videos\Study\Github\Logging\Logging\bin\Debug\DataAccess.dll
+G:\Videos\Study\Github\Logging\Logging\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\Videos\Study\Github\Logging\Logging\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+G:\Videos\Study\Github\Logging\Logging\bin\Debug\Configuration.pdb
+G:\Videos\Study\Github\Logging\Logging\bin\Debug\DataAccess.pdb
+G:\Videos\Study\Github\Logging\Logging\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+G:\Videos\Study\Github\Logging\Logging\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+G:\Videos\Study\Github\Logging\Logging\obj\Debug\Logging.csprojResolveAssemblyReference.cache
+G:\Videos\Study\Github\Logging\Logging\obj\Debug\Logging.dll
+G:\Videos\Study\Github\Logging\Logging\obj\Debug\Logging.pdb
